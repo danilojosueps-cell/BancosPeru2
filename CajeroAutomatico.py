@@ -1,16 +1,16 @@
 # ===========================================
 # PROGRAMA: CAJERO AUTOMÁTICO
-# Autor: Danilo Peña
+# Autor: Danilo Peña 3ro SEC    
 # ===========================================
 
-saldo = 5000
-pin_correcto = "5678"
+saldo = 20000
+pin_correcto = "9012"
 
 print("===================================")
-print("     BIENVENIDO AL CAJERO BCP           ")
+print("     CAJERO BANCO INTERBANK          ")
 print("===================================")
 
-pin = input("Ingrese su clave PIN: ")
+pin = input("Ingrese  PIN: ")
 
 if pin == pin_correcto:
 
